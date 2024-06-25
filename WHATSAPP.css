@@ -7,10 +7,6 @@
 .frame{
     width: 300px;
     height: 520px;
-    /* background:url(../../../Documents/4b934b4adc295f33e572824a5335e4cc.jpg) ;
-    background-size: cover;
-    background-repeat: no-repeat; */
-    /* colour: blue; */
     background-color: rgba(254, 253, 253, 0.95);
     border: 13px solid rgb(82, 81, 81);
     border-radius:35px; 
